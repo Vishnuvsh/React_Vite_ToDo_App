@@ -1,0 +1,20 @@
+.divid{
+    text-align: center;
+    background-color: #020631;
+    height: 100vh;
+    color: white;
+   
+}
+
+.div2{
+    padding: 200px;
+}
+.div3{
+    font-weight: bolder;
+    font-size: 30px;
+    
+}
+button{
+    width: 45px;
+    height: 50px;
+}
